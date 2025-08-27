@@ -1,0 +1,17 @@
+.main-Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* cards center me */
+  align-items: center;
+  gap: 20px;
+  padding: 30px 10px;
+  background-color: #f0f2f5;
+  min-height: 100vh; /* screen height cover kare */
+}
+
+.main-Container h1 {
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
