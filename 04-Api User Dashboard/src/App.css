@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.loading, .error {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
