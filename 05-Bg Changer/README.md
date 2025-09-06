@@ -14,7 +14,7 @@ This project demonstrates the use of **React Hooks** (`useState`) for state mana
 ---
 
 ## 🚀 Demo
-![App Screenshot](screenshot.png) 
+![App Screenshot](https://github.com/shahfahad22/React-Projects-Collection/blob/98515e61a390509cdecc176c208e1e038c510882/05-Bg%20Changer/src/assets/bg%20changer.png) 
 
 ---
 
