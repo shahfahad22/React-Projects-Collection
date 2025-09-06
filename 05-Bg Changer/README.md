@@ -28,7 +28,7 @@ This project demonstrates the use of **React Hooks** (`useState`) for state mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahfahad22/YourRepoName.git
+  git clone https://github.com/shahfahad22/React-Projects-Collection.git
 Navigate into the project folder:
 
 cd YourRepoName
