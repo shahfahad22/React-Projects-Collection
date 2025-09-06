@@ -1,0 +1,54 @@
+# 🎨 React + TailwindCSS Color Changer App
+
+A simple and interactive **Color Changer App** built with **React** and **TailwindCSS**.  
+This project demonstrates the use of **React Hooks** (`useState`) for state management and Tailwind utility classes for styling.  
+
+---
+
+## 🔑 Features
+- Change the background color with just one click.
+- Multiple color options (`Red`, `Blue`, `Crimson`, `Turquoise`, `Coral`, `Plum`, `Black`).
+- Smooth transition effect using Tailwind’s `duration-200`.
+- Responsive and modern UI with TailwindCSS.
+
+---
+
+## 🚀 Demo
+![App Screenshot](screenshot.png) 
+
+---
+
+## 🛠️ Built With
+- [React](https://react.dev/) – Frontend library
+- [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS framework
+
+---
+
+## 📂 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/YourRepoName.git
+Navigate into the project folder:
+
+bash
+Copy code
+cd YourRepoName
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+💡 Learning Outcome
+This project helped me practice:
+
+React useState hook for managing dynamic UI state.
+
+TailwindCSS styling for quick and responsive design.
+
+Building small interactive projects to strengthen core concepts.
