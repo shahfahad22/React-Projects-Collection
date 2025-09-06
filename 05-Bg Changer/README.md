@@ -31,18 +31,13 @@ This project demonstrates the use of **React Hooks** (`useState`) for state mana
    git clone https://github.com/shahfahad22/YourRepoName.git
 Navigate into the project folder:
 
-bash
-Copy code
 cd YourRepoName
 Install dependencies:
 
-bash
-Copy code
 npm install
 Start the development server:
 
 bash
-Copy code
 npm run dev
 💡 Learning Outcome
 This project helped me practice:
