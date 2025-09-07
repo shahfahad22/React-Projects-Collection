@@ -26,8 +26,7 @@ This project demonstrates the use of **React Hooks** (`useState`) for state mana
 
 ## 📂 How to Run Locally
 
-1. Clone the repository:
-git clone https://github.com/shahfahad22/React-Projects-Collection.git
+1. Clone the repository:  git clone https://github.com/shahfahad22/React-Projects-Collection.git
 Navigate into the project folder:
 
 cd YourRepoName
