@@ -46,10 +46,8 @@ react-projects-collection/
    ```bash
    git clone https://github.com/shahfahad22/react-projects-collection.git
 
-cd react-projects-collection/01-project-name
-
+ cd react-projects-collection/01-project-name
 npm install
-
 npm install
 
 Open your browser at http://localhost:5173
