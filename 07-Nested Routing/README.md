@@ -6,7 +6,7 @@ A React application that demonstrates **nested routing**, **API data fetching**,
 
 ## 📸 Demo
 
-![Demo Screenshot](./screenshot.png)  
+! Demo Screenshot : https://github.com/shahfahad22/React-Projects-Collection/blob/3b16f29d059c546cb26e59070dc39304b73fe604/07-Nested%20Routing/src/assets/screenshot.png
 *(Add your own project screenshot or GIF here)*
 
 ---
