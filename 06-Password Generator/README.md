@@ -17,7 +17,9 @@ This app allows you to quickly generate strong, customizable, and secure passwor
 
 ## 📸 Demo (Screenshot)
 
-> Add your app screenshot or GIF here for better visibility.  
+<img src="https://github.com/shahfahad22/React-Projects-Collection/blob/7425342605830bf892b9e74489f72e33c37b254e/06-Password%20Generator/src/assets/pswd.png?raw=true" alt="Password Generator" width="400"/>
+
+  
 
 ---
 
