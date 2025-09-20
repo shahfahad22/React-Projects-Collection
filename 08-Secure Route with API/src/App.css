@@ -1,0 +1,136 @@
+/* login-card-react.css */
+.login-card-wrap {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: linear-gradient(180deg, #f3f6ff 0%, #ffffff 100%);
+}
+
+.login-card {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 12px 30px rgba(20, 24, 40, 0.08);
+  padding: 28px;
+  box-sizing: border-box;
+}
+
+.lock-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.lock-badge {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #6c63ff, #3b82f6);
+  color: white;
+  font-size: 22px;
+}
+
+.login-title {
+  font-size: 20px;
+  margin: 6px 0;
+  color: #111827;
+  font-weight: 700;
+  text-align: center;
+}
+
+.login-sub {
+  color: #6b7280;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.error {
+  background: #fee2e2;
+  color: #b91c1c;
+  padding: 10px 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.field {
+  margin-bottom: 14px;
+}
+
+.field label {
+  display: block;
+  font-size: 13px;
+  color: #374151;
+  margin-bottom: 6px;
+}
+
+.field input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  outline: none;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.field input:focus {
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
+  border-color: #60a5fa;
+}
+
+.btn {
+  width: 100%;
+  padding: 11px 14px;
+  background: linear-gradient(90deg, #4f46e5, #06b6d4);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0;
+}
+
+.divider span {
+  color: #9ca3af;
+  font-size: 13px;
+}
+
+.divider .line {
+  flex: 1;
+  height: 1px;
+  background: #e6e7eb;
+  border-radius: 1px;
+}
+
+.demo {
+  font-size: 13px;
+  color: #4b5563;
+  text-align: center;
+}
+
+.demo-label {
+  font-weight: 600;
+  color: #111827;
+}
+
+@media (max-width: 480px) {
+  .login-card {
+    padding: 20px;
+    border-radius: 12px;
+  }
+}
