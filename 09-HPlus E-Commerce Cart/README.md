@@ -72,13 +72,17 @@ src/
 ```bash
 git clone https://github.com/shahfahad22/react-ecommerce-cart.git
 
-Install dependencies:
 
+Install dependencies:
+```bash
 npm install
 
+```bash
 Run the app
 
+```bash
 npm run dev
+
 
 Usage
 

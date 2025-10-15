@@ -20,7 +20,6 @@ function App() {
       setPassword("⚠ Select at least one option");
       return;
     }
-
     let generated = "";
     for (let i = 0; i < length; i++) {
       const index = Math.floor(Math.random() * pswd.length);
