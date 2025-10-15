@@ -13,6 +13,7 @@ This project is a **modern e-commerce application** built with React and Tailwin
 
 ## Features
 
+
 - 🛒 **Dynamic Products:**  
   Products are dynamically fetched from the API (`/products/order/price`) and always stay updated.  
 
