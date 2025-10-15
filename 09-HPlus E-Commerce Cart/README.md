@@ -8,7 +8,7 @@ This project is a **modern e-commerce application** built with React and Tailwin
 
 ---
 
-![Project Screenshot](./screenshot.png) <!-- Replace with your actual screenshot file -->
+![Project Screenshot](https://github.com/shahfahad22/React-Projects-Collection/blob/62da8bb1c4624bf1f9cf47ffe1e08779ed3eac25/09-HPlus%20E-Commerce%20Cart/src/assets/screnshot.png) <!-- Replace with your actual screenshot file -->
 
 
 ## Features
