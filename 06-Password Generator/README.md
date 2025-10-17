@@ -11,7 +11,9 @@ This app allows you to quickly generate strong, customizable, and secure passwor
 - ✅ Option to include **numbers & special characters**  
 - ✅ One-click **copy to clipboard**  
 - ✅ Responsive & clean **UI with Tailwind**  
-- ✅ Built using modern React hooks: `useState`, `useRef`, `useCallback`, `useEffect`  
+- ✅ Built using modern React hooks: `useState`, `useRef`, `useCallback`, `useEffect`
+
+- 
 
 ---
 

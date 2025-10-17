@@ -58,7 +58,7 @@ src/
 
 ## 📸 Screenshot
 
-<img src="https://raw.githubusercontent.com/username/repo-name/main/public/banner.png" alt="Project Screenshot" width="100%" />
+<img src="https://github.com/shahfahad22/React-Projects-Collection/blob/5ab6dbdb38d4a6110d4f014b5cd56d55c98d509b/10-Foodify/src/assets/images/Screenshot.png" alt="Project Screenshot" width="100%" />
 
 
 🧰 Installation & Setup

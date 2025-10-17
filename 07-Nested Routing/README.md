@@ -3,14 +3,12 @@
 A React application that demonstrates **nested routing**, **API data fetching**, and **dynamic user details page** using **React Router DOM** and **Axios**.
 
 ---
-
 ## 📸 Demo
-![Demo Screenshot](https://raw.githubusercontent.com/shahfahad22/React-Projects-Collection/main/07-Nested%20Routing/src/assets/screenshot.png)
 
-*(Add your own project screenshot or GIF here)*
+
+![Demo Screenshot] https://raw.githubusercontent.com/shahfahad22/React-Projects-Collection/main/07-Nested%20Routing/src/assets/screenshot.png
 
 ---
-
 ## ✨ Features
 
 - 🏠 **Home Page** – Simple landing page with navigation.  
