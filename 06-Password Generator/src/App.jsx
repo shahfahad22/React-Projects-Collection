@@ -119,8 +119,6 @@ function App() {
             <span> Lowercase</span>
           </label>
         </div>
-
-        
         <button
           onClick={passwordGenerator}
           className="w-full py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-bold text-lg"
