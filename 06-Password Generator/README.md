@@ -15,6 +15,8 @@ This app allows you to quickly generate strong, customizable, and secure passwor
 
 - 
 
+
+
 ---
 
 ## 📸 Demo (Screenshot)
