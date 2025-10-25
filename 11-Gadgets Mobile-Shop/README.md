@@ -1,4 +1,4 @@
-# 🛍️ Gadgets Mobile-Shop &nbsp;&nbsp;[🌐 **Live Preview**](https://your-live-site-link.com)
+# 🛍️ Gadgets Mobile-Shop &nbsp;&nbsp;[🌐 **Live Preview**](https://gadgetsmobileshop1.netlify.app/login)
 
 A modern **Single Page Application (SPA)** built with **React**, featuring **user authentication**, **protected/public routes**, **a fully functional cart system**, and **a clean, responsive UI** using **Tailwind CSS**.
 
