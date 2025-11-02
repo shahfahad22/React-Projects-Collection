@@ -2,6 +2,7 @@
 
 A modern **Single Page Application (SPA)** built with **React**, featuring **user authentication**, **protected/public routes**, **a fully functional cart system**, and **a clean, responsive UI** using **Tailwind CSS**.
 
+
 ---
 
 ## 📸 Screenshots
