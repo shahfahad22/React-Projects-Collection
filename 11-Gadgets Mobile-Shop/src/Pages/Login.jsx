@@ -59,7 +59,7 @@ export default function Login() {
         className="bg-[#1a1f24]/80 backdrop-blur-md p-8 rounded-2xl shadow-xl w-80 flex flex-col gap-5 border border-gray-700"
       >
         <h2 className="text-3xl font-bold text-center text-white mb-2">
-          Welcome Back 👋
+          Welcome Back 
         </h2>
         <p className="text-center text-gray-400 text-sm mb-2">
           Please login to continue
