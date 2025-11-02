@@ -8,7 +8,7 @@ A modern **Single Page Application (SPA)** built with **React**, featuring **use
 
 > 🖼️ Add your project screenshots here. Replace the link below with your own image URLs.
 
-![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Your+Screenshot+Here)
+![Project Screenshot](https://github.com/shahfahad22/React-Projects-Collection/blob/275ba62e3141694d5685570f79759bc88974fd1b/11-Gadgets%20Mobile-Shop/src/assets/Screenshot.png)
 
 ---
 
@@ -54,7 +54,7 @@ A modern **Single Page Application (SPA)** built with **React**, featuring **use
 
 ## 📂 Project Structure
 
-src/
+# src/
 ├── App.jsx
 ├── index.js
 ├── Layout/
