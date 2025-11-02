@@ -11,6 +11,7 @@ This project demonstrates the use of **React Hooks** (`useState`) for state mana
 - Smooth transition effect using Tailwind’s `duration-200`.
 - Responsive and modern UI with TailwindCSS.
 
+
 ---
 
 ## 🚀 Demo
