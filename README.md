@@ -43,27 +43,27 @@ Copy code
 
 ## 🚀 How to Access & Run Projects
 
-1. **Clone this repository**:
+### 1. Clone this repository
 
 ```bash
 git clone https://github.com/shahfahad22/react-projects-collection.git
-Navigate to the project folder:
-
+2. Navigate to the project folder
 bash
 Copy code
 cd react-projects-collection/01-project-name
-Install dependencies:
-
+3. Install dependencies
 bash
 Copy code
 npm install
-Run the project:
-
+4. Run the project
 bash
 Copy code
 npm run dev
-Open in browser:
-Visit http://localhost:5173 (default for Vite projects)
+5. Open in browser
+text
+Copy code
+Visit http://localhost:5173
+Each block above is separate, so GitHub will show individual copy buttons for every step.
 
 🛠️ Features
 Multiple independent React projects ⚛️
