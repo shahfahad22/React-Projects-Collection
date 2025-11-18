@@ -45,17 +45,23 @@ react-projects-collection/
 git clone https://github.com/shahfahad22/react-projects-collection.git
 
 2. Navigate to the project folder:
+```bash
 cd react-projects-collection/01-project-name
+
 3. Install dependencies:
+```bash
 npm install
+
 4. Run the project:
+```bash
 npm run dev
+
 5. Open in browser:
-Visit http://localhost:5173
- (default for Vite projects)
+```bash
+Visit http://localhost:5173 (default for Vite projects)
+
 
  🛠️ Features
-
 Multiple independent React projects ⚛️
 
 Full source code with documentation 📚
