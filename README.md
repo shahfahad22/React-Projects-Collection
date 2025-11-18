@@ -33,6 +33,10 @@ react-projects-collection/
 │ └── (project files)
 │
 └── README.md # 📖 Main repository overview
+
+yaml
+Copy code
+
 > Each project folder includes its own `README.md` with **detailed instructions, features, and setup guide**.
 
 ---
@@ -43,25 +47,25 @@ react-projects-collection/
 
 ```bash
 git clone https://github.com/shahfahad22/react-projects-collection.git
+Navigate to the project folder:
 
-2. Navigate to the project folder:
-```bash
+bash
+Copy code
 cd react-projects-collection/01-project-name
+Install dependencies:
 
-3. Install dependencies:
-```bash
+bash
+Copy code
 npm install
+Run the project:
 
-4. Run the project:
-```bash
+bash
+Copy code
 npm run dev
-
-5. Open in browser:
-```bash
+Open in browser:
 Visit http://localhost:5173 (default for Vite projects)
 
-
- 🛠️ Features
+🛠️ Features
 Multiple independent React projects ⚛️
 
 Full source code with documentation 📚
@@ -71,6 +75,5 @@ Beginner to advanced level examples 🎯
 Learn real-world React patterns and structures 💻
 
 👨‍💻 Author
-
 Shah Fahad
 Passionate Frontend Developer | React Enthusiast ⚛️
